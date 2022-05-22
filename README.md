@@ -29,3 +29,5 @@ https://github.com/AshikaAnand12/Amazon-reviews-Sentiment-analysis
 
 Project Report:
 https://docs.google.com/document/d/1IgDLGU0zol8l75pxheGcumD2FoJx74ezXsGxk2ivn8A/edit?usp=sharing
+
+Paper: https://arxiv.org/pdf/1904.04096.pdf
