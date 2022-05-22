@@ -3,15 +3,15 @@
 ## Data Source: https://jmcauley.ucsd.edu/data/amazon/
 
 ## Working
-Retrived Data from the data sources
-Perform the data cleaning and Pre-processing
-Extract features which are neccesary for building the model
-Implement different visualization techniques
-Create a Model with the pre-processed data
-Check the accuarcy and select model
-Dump the model into pickle file
-Use the pickle file for deployment in AWS EC2 instance
-Fetch the data from deployment and pass it to the developed UI to generate the required results
+1. Retrived Data from the data sources
+2. Perform the data cleaning and Pre-processing
+3. Extract features which are neccesary for building the model
+4. Implement different visualization techniques
+5. Create a Model with the pre-processed data
+6. Check the accuarcy and select model
+7. Dump the model into pickle file
+8. Use the pickle file for deployment in AWS EC2 instance
+9. Fetch the data from deployment and pass it to the developed UI to generate the required results
 
 ## All files
 Google Colab:
