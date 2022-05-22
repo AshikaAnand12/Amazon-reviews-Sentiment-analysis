@@ -1,6 +1,6 @@
 # Amazon reviews Sentiment Analysis
 
-## Data Source: [https://nrt3.modaps.eosdis.nasa.gov/archive/FIRMS/modis-c6.1/Global](https://jmcauley.ucsd.edu/data/amazon/)
+## Data Source: https://jmcauley.ucsd.edu/data/amazon/
 
 ## Working
 Retrived Data from the data sources
