@@ -21,7 +21,7 @@ Google Colab:
 Presentation:
 https://docs.google.com/presentation/d/1fYCUFnr6RbD7OwuL6aoQA8nrjC5-8Y1iBYZ2bwVy9GU/edit?usp=sharing
 
-Demo URL:
+Demo URL: https://drive.google.com/drive/folders/1YyA5-QaKyWXqKXfX5mKJ5hBl4Okap0vm?usp=sharing
 
 
 Github Repository:
